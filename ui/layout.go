@@ -4,8 +4,8 @@ import (
 	"log"
 	"strings"
 
-	ui "github.com/gizak/termui/v3"
-	"github.com/liushuchun/wechatcmd/wechat"
+	ui "github.com/gizak/termui"
+	"wechatcmd/wechat"
 )
 
 const (
